@@ -1,0 +1,35 @@
+{
+  "name": "discord-economy-mongo",
+  "version": "1.0.0",
+  "description": "Economy package for discord, used with mongodb and discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeahTheyCallMeAxa/discord-economy-mongo.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "database",
+    "economy",
+    "discord",
+    "discord.js",
+    "money",
+    "beg",
+    "bal",
+    "eco"
+  ],
+  "author": "YeahTheyCallMeAxa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YeahTheyCallMeAxa/discord-economy-mongo/issues"
+  },
+  "homepage": "https://github.com/YeahTheyCallMeAxa/discord-economy-mongo#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "quickmongo": "^4.0.0"
+  }
+}
