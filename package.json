@@ -1,6 +1,6 @@
 {
   "name": "discord-economy-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Economy package for discord, used with mongodb and discord.js",
   "main": "index.js",
   "scripts": {

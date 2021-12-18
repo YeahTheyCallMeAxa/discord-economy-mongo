@@ -10,6 +10,8 @@ class Economy {
     static async setURL(dbUrl) {
         if (!dbUrl) throw new TypeError('Mongo Database URL was not provided');
 
+        console.log("discord-economy-mongo successfully connected to MongoDB");
+
         return url = dbUrl
     }
 
